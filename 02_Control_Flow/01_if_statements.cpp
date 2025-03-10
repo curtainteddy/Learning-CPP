@@ -12,6 +12,10 @@ int main()
     {
         std::cout << "Granpa, it's bedtime." << std::endl;
     }
+    else if (age == 69) // Double equals is used to compare values, since single assigns values
+    {
+        std::cout << "NICE!" << std::endl;
+    }
     else if (age >= 21)
     {
         std::cout << "Ready for a scotch on the rocks." << std::endl;
