@@ -1,4 +1,4 @@
-# Learning C++ 🚀
+# Learning C++
 This repository is a structured collection of everything I am learning about C++. It is organized into topics in the order I learned them, making it easier to follow along.
 
 ## 📂 Repository Structure
