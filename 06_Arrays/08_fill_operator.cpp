@@ -4,7 +4,7 @@ int main()
 {
     // We can't initialize array without defining size. So, we have to define size of array.
 
-    // This is not practical if are initializing array with large number of elements.
+    // This is not practical if we are initializing array with large number of elements.
     // std::string foods[10] = {"Pizza", "Pizza", "Pizza", "Pizza", "Pizza", "Pizza", "Pizza", "Pizza", "Pizza", "Pizza"};
 
     // fill() function is used to fill the array with the same value.
